@@ -1,5 +1,7 @@
 package com.arrays;
 
+//Detalle aqui: https://deltaquo.com/kb/tree/challenges/265-lectura-secuencial-de-pares
+
 import java.io.*;
 
 public class ValSeqBlocks {
